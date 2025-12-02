@@ -1,4 +1,4 @@
-A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)
+A handy lookup table of similar technology and services to help ex-googlers survive the *real* world :)1
 pull-requests are very welcomed. __Please do not list any confidential projects!__
 
 For a working example of (some) of these technologies integrated together, see:
